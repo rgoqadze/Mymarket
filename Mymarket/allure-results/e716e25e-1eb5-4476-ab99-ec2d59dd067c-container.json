@@ -1,0 +1,1 @@
+{"uuid":"e716e25e-1eb5-4476-ab99-ec2d59dd067c","name":"Mymarket","children":["8c796d63-f4de-411c-9a95-4361f239d819"],"befores":[{"name":"setupmymarket","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1670255415961,"stop":1670255422733}],"afters":[],"links":[],"start":1670255415918,"stop":1670255428933}
